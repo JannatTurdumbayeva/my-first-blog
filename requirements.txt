@@ -1,1 +1,7 @@
 Django~=2.2.4
+dj-database-url==0.3.0
+gunicorn==19.6.0
+python-decouple==3
+Pillow
+psycopg2-binary
+whitenoise==5.2.0
